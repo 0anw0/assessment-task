@@ -20,7 +20,7 @@ entire screen with a overlay part that contains the film's title, overview and r
 
 - [react-native-fast-image](https://github.com/DylanVann/react-native-fast-image)
   # cached optimized images
-  the community package (react-native-fast-image from @DylanVann) for more performant images. 
+  the community package (react-native-fast-image from @DylanVann) provides more performant images. 
   Every image in the list is a new Image() instance. The faster it reaches the loaded hook,
   the faster your JavaScript thread will be free again.
 
