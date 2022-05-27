@@ -37,5 +37,5 @@ entire screen with a overlay part that contains the film's title, overview and r
   - `styles`: Folder that contains all the application screens and components styles.
 
 ...
-...
+
 
