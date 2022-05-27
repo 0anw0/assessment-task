@@ -29,8 +29,8 @@ entire screen with a overlay part that contains the film's title, overview and r
 ...
 - `src`: This folder is the main container of all the code inside your application.
   - `assets`: Asset folder to store all images, vectors, etc.
-  - `components`: Folder to store any common component that you use through your app (such as a generic button)
-  - `constants`: Folder to store any kind of constant that you have.
+  - `components`: Folder to store any common component that is used through your app (such as a generic button)
+  - `api`: Folder to store any kind of api constants.
   - `screens`: Folder that contains all the application screens/features.
   - `styles`: Folder that contains all the application screens and components styles.
 ...
