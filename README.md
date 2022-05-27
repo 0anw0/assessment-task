@@ -1,4 +1,4 @@
-# instabug cross platform internship Assessment Task
+# Instabug Cross-Platform Internship Assessment Task
 
 ## Overview
 
